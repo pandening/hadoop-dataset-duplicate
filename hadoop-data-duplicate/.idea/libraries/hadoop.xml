@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="hadoop">
+    <CLASSES>
+      <root url="file://$USER_HOME$/hujian-hadoop/share/hadoop" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/hujian-hadoop/share/hadoop/common/jdiff" />
+      <root url="file://$USER_HOME$/hujian-hadoop/share/hadoop/hdfs/jdiff" />
+    </SOURCES>
+  </library>
+</component>
